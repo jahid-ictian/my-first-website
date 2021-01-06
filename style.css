@@ -3,11 +3,11 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 li {
+    text-decoration: none;
     display: inline;
     float: right;
     display: block;
     padding: 8px;
-    background-color: none;
   }
 #navbar{
     height: 10px;
@@ -78,6 +78,6 @@ h2{
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
 }
-footer p{
+footer {
     text-align: center;
 }
