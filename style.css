@@ -91,6 +91,10 @@ div.gallery {
     background-position-x: center;
     background-position-y: center ;
 }
+.work h1
+{
+    color: white;
+}
 #contact
 {
     float: right;
