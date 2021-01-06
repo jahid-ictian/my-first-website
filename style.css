@@ -2,6 +2,17 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+li {
+    display: inline;
+    float: right;
+    display: block;
+    padding: 8px;
+    background-color: none;
+  }
+#navbar{
+    height: 10px;
+   padding-bottom: 150px;
+}
 section{
     height: 500px;
     padding-bottom: 150px;
